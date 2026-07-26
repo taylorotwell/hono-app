@@ -132,7 +132,7 @@ app.get('/', (c) =>
       <section class="hero">
         <div>
           <h1>Hello,<br><span>Hono.</span></h1>
-          <p class="intro">The app is running and ready for a route. Start building in <code>src/index.ts</code>.</p>
+          <p class="intro">The app is running and ready for a route. Start adding routes in <code>src/index.ts</code>.</p>
         </div>
 
         <aside class="panel" aria-label="Request details">
